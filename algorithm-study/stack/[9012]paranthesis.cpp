@@ -18,11 +18,7 @@ int main(){
                 st.push(true);
             }
             else{
-                if(st.size()<=0){
-                    cout<<"NO\n";
-                    break;;
-                }
-                if(st.top()){
+                if(!st.empty()&&st.top()){
                     st.pop();
                 }
                 else{
@@ -32,7 +28,12 @@ int main(){
 
             }
             if(j == inStr.size()-1){
-                cout<<"YES\n";
+                if(st.size() != 0){
+                    cout<<"NO\n";
+                }
+                else{
+                    cout<<"YES\n";
+                }
             }
         }
     }
