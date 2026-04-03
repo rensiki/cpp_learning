@@ -1,3 +1,35 @@
 /*Practice brute-force search and pattern recognition by finding numbers 
 containing a specific sequence. */
 
+
+/*
+666
+1666
+2666
+3666
+4666
+5666
+
+
+
+6666
+6661
+6662
+6663
+...
+
+
+
+7...
+9666
+10666
+11666
+...
+16666
+16661
+16662
+...
+
+
+
+*/
