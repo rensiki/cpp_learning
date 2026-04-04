@@ -1,5 +1,8 @@
 # cpp_learning
 boj
+https://www.acmicpc.net/
+https://chatgpt.com/
+https://claude.ai/new
 
 
 https://www.learncpp.com/#google_vignette
