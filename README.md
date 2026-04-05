@@ -13,6 +13,9 @@ https://serene-code.tistory.com/entry/C-%ED%95%99%EC%8A%B5%EC%8B%9C-%EC%B0%B8%EA
 ->cpp 공부할때 참고할만한 사이트들
 
 
+뇌우조치시 사지방 안됨 주의
+-> 뇌우조치 등으로 인해 개발 힘들 경우 이런식으로라도 커밋하고 코드 복습해보자
+
 ios::sync_with_stdio(false);
 cin.tie(0);
 https://chatgpt.com/g/g-p-69c7bffb22488191b838b4dbb7caa37d/c/69c7c1e0-4f34-83e8-a136-03b376bc565c
