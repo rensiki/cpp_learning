@@ -15,6 +15,7 @@ https://serene-code.tistory.com/entry/C-%ED%95%99%EC%8A%B5%EC%8B%9C-%EC%B0%B8%EA
 
 뇌우조치시 사지방 안됨 주의
 -> 뇌우조치 등으로 인해 개발 힘들 경우 이런식으로라도 커밋하고 코드 복습해보자
+4/6 (월) 아직도 사지방 복구 안됨..
 
 ios::sync_with_stdio(false);
 cin.tie(0);
