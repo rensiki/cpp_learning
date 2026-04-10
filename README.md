@@ -18,6 +18,10 @@ https://serene-code.tistory.com/entry/C-%ED%95%99%EC%8A%B5%EC%8B%9C-%EC%B0%B8%EA
 4/6 (월) 아직도 사지방 복구 안됨..
 4/7.. 보안감사 끝나고 확인해주신다심
 4/8..
+4/9 깜빡함!!! 내 잔디밭 구멍났다!!!!
+
+4/10.. 마참내 일부 컴퓨터가 복구되어 개발공부 다시 시작~!
+
 
 
 ios::sync_with_stdio(false);
