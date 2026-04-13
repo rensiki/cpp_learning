@@ -14,13 +14,13 @@ void PushAns(stack<int>& st, int e, queue<char>& ans){
     st.push(e);
 }
 void Print(stack<int> st){
-        cout<<"print st: ";
+        //cout<<"print st: ";
     int repeat = st.size();
     for(int i=0; i<repeat; i++){
-        cout<<st.top();
+        //cout<<st.top();
         st.pop();
     }
-    cout<<'\n';
+    //cout<<'\n';
 }
 
 int main(){
@@ -43,7 +43,7 @@ int main(){
     int cnt = 0;
     int idx = 0;
     for(int i=0; i<2*N; i++){
-        cout<<arr[idx]<<'\n';
+        //cout<<arr[idx]<<'\n';
         if(!st.empty()&&arr[idx]==st.top()){
             PopAns(st, ans);
             idx++;
