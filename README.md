@@ -27,3 +27,7 @@ https://serene-code.tistory.com/entry/C-%ED%95%99%EC%8A%B5%EC%8B%9C-%EC%B0%B8%EA
 ios::sync_with_stdio(false);
 cin.tie(0);
 https://chatgpt.com/g/g-p-69c7bffb22488191b838b4dbb7caa37d/c/69c7c1e0-4f34-83e8-a136-03b376bc565c
+
+
+https://m.blog.naver.com/ksgkms26/221322343463?recommendTrackingCode=2
+정렬 알고리즘과 pair
