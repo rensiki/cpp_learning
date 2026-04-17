@@ -1,4 +1,6 @@
 #include<iostream>
+#include<vector>
+#include<algorithm>
 using namespace std;
 
 int main(){
@@ -6,12 +8,24 @@ int main(){
     cin.tie(0);
 
     int N; cin>>N;
+    vector<int> vec(N);
+    for(auto& e : vec) cin>>e;
 
-    for(int i=0; i<N; i++){
-        
+    sort(vec.begin(), vec.end());
+
+    int M; cin>>M;
+    for(int j=0; j<M; j++){
+        int target; cin>>target;
+        bool found = false;
+        int low{0}, high{N-1}, mid;
+        while(low<=high){
+            mid = low + (high-low)/2;
+            if(vec[mid] == target){ found = true; break;}
+            else if(vec[mid]<target) low = mid+1;
+            else high = mid -1;
+        }
+        cout<<found<<'\n';
     }
-
-
 }
 
 
