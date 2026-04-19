@@ -1,9 +1,29 @@
 # cpp_learning
-boj
-https://www.acmicpc.net/
 https://chatgpt.com/
 https://claude.ai/new
 
+
+https://kenkoooo.com/atcoder/#/table/
+📋 Table 탭
+
+ABC/ARC/AGC 콘테스트별로 문제를 표로 정리
+내가 푼 문제는 초록색, 안 푼 문제는 흰색으로 표시
+한눈에 어떤 콘테스트 문제를 얼마나 풀었는지 파악 가능
+
+🔍 List 탭
+
+난이도(Difficulty), 알고리즘 태그로 필터링해서 문제 탐색
+입문자는 여기서 Difficulty 400~800 필터 걸고 풀면 됨
+
+🏋️ Training 탭
+
+알고리즘 유형별 커리큘럼 제공
+"DP만 집중 훈련" 같은 식으로 활용 가능
+
+⏱️ Virtual Contest 탭
+
+과거 콘테스트를 타이머 걸고 모의시험처럼 풀기
+실전 감각 기르는 데 유용
 
 https://www.learncpp.com/#google_vignette
 ->군대에서 모든 쳅터 다 학습해보자
@@ -31,3 +51,8 @@ https://chatgpt.com/g/g-p-69c7bffb22488191b838b4dbb7caa37d/c/69c7c1e0-4f34-83e8-
 
 https://m.blog.naver.com/ksgkms26/221322343463?recommendTrackingCode=2
 정렬 알고리즘과 pair
+
+
+04/19.. 백준 플레 찍기가 목표였는데..
+일단 AtCoder 입문해보자
+
