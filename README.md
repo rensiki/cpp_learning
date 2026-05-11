@@ -56,3 +56,7 @@ https://m.blog.naver.com/ksgkms26/221322343463?recommendTrackingCode=2
 04/19.. 백준 플레 찍기가 목표였는데..
 일단 AtCoder 입문해보자
 
+
+https://jacking75.github.io/ai-llm_20250621/
+이분 블로그 재밌는거 너무 많다
+
