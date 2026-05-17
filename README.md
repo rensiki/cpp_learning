@@ -60,3 +60,6 @@ https://m.blog.naver.com/ksgkms26/221322343463?recommendTrackingCode=2
 https://jacking75.github.io/ai-llm_20250621/
 이분 블로그 재밌는거 너무 많다
 
+https://github.com/jacking75/NewbieGameServerProgrammerLearningMaterials
+
+그는 신인가...? 서버 공부 하면서 달느 글들도 많이 봐보자.
