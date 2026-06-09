@@ -1,6 +1,12 @@
 # cpp_learning
+
+https://kenkoooo.com/atcoder/
+
 https://chatgpt.com/
 https://claude.ai/new
+
+
+https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=23041970058&gbraid=0AAAAApk5Bhk_rUIlnb--q-aEcZlWwOTv-&gclid=Cj0KCQjw54nRBhDCARIsAMcY_SAoN0I_JsvVLNy8r9w7hSimGowtSfWerNie2EOXjEzo_PyJdn91cv4aAhQZEALw_wcB
 
 
 https://kenkoooo.com/atcoder/#/table/
