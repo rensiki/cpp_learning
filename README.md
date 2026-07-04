@@ -8,6 +8,9 @@ https://claude.ai/new
 
 https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=23041970058&gbraid=0AAAAApk5Bhk_rUIlnb--q-aEcZlWwOTv-&gclid=Cj0KCQjw54nRBhDCARIsAMcY_SAoN0I_JsvVLNy8r9w7hSimGowtSfWerNie2EOXjEzo_PyJdn91cv4aAhQZEALw_wcB
 
+게임_서버_개발을_위한_CSharp_Socket_프로그래밍->
+https://github.com/jacking75/programming-books-with-ai/tree/main/%EA%B2%8C%EC%9E%84_%EC%84%9C%EB%B2%84_%EA%B0%9C%EB%B0%9C%EC%9D%84_%EC%9C%84%ED%95%9C_CSharp_Socket_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D
+
 
 
 https://anz1217.tistory.com/147
